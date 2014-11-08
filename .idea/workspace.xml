@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1dd19a5a-719b-4659-b1af-ba26b8eb7bc0" name="Default" comment="" />
+    <list default="true" id="1dd19a5a-719b-4659-b1af-ba26b8eb7bc0" name="Default" comment="Update">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CHANGELOG.md" afterPath="$PROJECT_DIR$/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/course_ingest.py" afterPath="$PROJECT_DIR$/course_ingest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="vivo-course-ingest.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,8 +30,8 @@
       <file leaf-file-name="course_ingest.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/course_ingest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="3.039557" vertical-offset="0" max-vertical-offset="3060">
-              <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.56666666" vertical-offset="0" max-vertical-offset="3060">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
                 <element signature="e#1339#1382#0" expanded="true" />
               </folding>
@@ -48,8 +52,8 @@
       <file leaf-file-name="CHANGELOG.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.3703704" vertical-offset="140" max-vertical-offset="799">
-              <caret line="12" column="67" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
+            <state vertical-scroll-proportion="-18.74074" vertical-offset="140" max-vertical-offset="833">
+              <caret line="38" column="85" selection-start-line="38" selection-start-column="85" selection-end-line="38" selection-end-column="85" />
               <folding />
             </state>
           </provider>
@@ -71,6 +75,7 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/course_ingest.py" />
       </list>
     </option>
@@ -85,7 +90,7 @@
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="false" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="0" id="Add" />
@@ -275,7 +280,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="9" y="35" width="1333" height="804" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -326,8 +331,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.3703704" vertical-offset="140" max-vertical-offset="799">
-          <caret line="12" column="67" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
+        <state vertical-scroll-proportion="-18.74074" vertical-offset="140" max-vertical-offset="833">
+          <caret line="38" column="85" selection-start-line="38" selection-start-column="85" selection-end-line="38" selection-end-column="85" />
           <folding />
         </state>
       </provider>
@@ -337,8 +342,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/course_ingest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.039557" vertical-offset="0" max-vertical-offset="3060">
-          <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.56666666" vertical-offset="0" max-vertical-offset="3060">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
             <element signature="e#1339#1382#0" expanded="true" />
           </folding>

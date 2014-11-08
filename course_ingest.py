@@ -30,7 +30,7 @@
 __author__ = "Michael Conlon"
 __copyright__ = "Copyright 2014, University of Florida"
 __license__ = "BSD 3-Clause license"
-__version__ = "0.6"
+__version__ = "0.7"
 
 from vivopeople import make_ufid_dictionary
 from vivocourses import prepare_teaching_data
