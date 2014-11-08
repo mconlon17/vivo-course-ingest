@@ -1,0 +1,2 @@
+2014-09-25 19:54:47.450738 Course ingest. Version 0.6 VIVO Tools 2.01
+2014-09-25 19:54:47.450777 Make UF Taught Dictionary
