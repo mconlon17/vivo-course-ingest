@@ -6,7 +6,7 @@
     as necessary, and course sections of courses.  Links courses to instructors
     vis teacher roles, create a course web site object for each course.  Link
     Sections (instances of courses) to course, instructor (via teacher role)
-    and to academic term.  Academic terms are created by hand.
+    and to academic term.
 
     Exceptions are thrown, caught and logged for missing academic term and
     missing instructor.
@@ -14,10 +14,10 @@
     See CHANGELOG.md for history
 
     To Do:
-    --  Create a test file with various
-    --  Move to an update design. Even though updates are rare, we need to
-        be able to handle them.  This will involve moving away from tempita,
-        and the _rdf functions and new add_section, add_course functions
+    --  Create a test file with various test conditions and notes
+    --  Move to an update design
+    --  Use rdflib
+    --  Support Simple VIVO processing
     --  Use argparse to handle command line arguments
 
     Long Term:
